@@ -1,0 +1,14 @@
+.pro__container {
+  width: 100vw;
+  height: 100vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.pro_content {
+  font-size: xx-large;
+  font-weight: bold;
+  color: #1faa59;
+}
